@@ -14,7 +14,7 @@ function App() {
     const dispatch = useDispatch()
 
 useEffect(() => {dispatch(auth())}, [])
-if(isAuth)
+
     return (
 <BrowserRouter>//
   <div className='app'>
