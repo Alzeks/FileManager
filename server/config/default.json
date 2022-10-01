@@ -1,0 +1,8 @@
+
+{
+  "serverPort" : 5000,
+  "dbUrl": "mongodb+srv://ulbitv:qawsed@cloud.91g1g.mongodb.net/cloud?retryWrites=true&w=majority",
+  "secretKey": "secret-key",
+  "filePath": "C:\\Users\\Alex\\github\\cloud\\server\\files",
+  "staticPath": "C:\\Users\\Alex\\github\\cloud\\server\\static"
+}
